@@ -1,2 +1,2 @@
 # javascriptsh
-JavaScript basics.
+JavaScript basics, functions, etc.
